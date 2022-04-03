@@ -19,7 +19,7 @@ int main(){
             std::cout << area;
             break;
         default:
-            std::cout << "Opzione non valida";
+            std::cout << "opzione non valida";
     }
   return 0;
 
