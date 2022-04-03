@@ -4,7 +4,6 @@ using namespace std;
 int main(){
   float a, b, area;
   int op;
-  std::cout<<"Inserire due numeri reali e scegliere l'opzione.\n";
   cin >> a >> b >> op;
   switch (op) {
         case 0:
